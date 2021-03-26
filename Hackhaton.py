@@ -1,3 +1,5 @@
+# Testing zone
+
 # initializing string
 str_in = "hello world hello raphael world Gabriel hello world hello"
 
