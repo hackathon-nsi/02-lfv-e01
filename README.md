@@ -12,6 +12,9 @@ niveau 4 : |--------------------|<br />
 <!-- ne pas effacer les lignes ci-dessus et mettre à jour la progression régulièrement -->
 
 ## JOURNAL DE BORD
+Test programme python terminé -> à faire :
+Ouvrir fichier texte de la princesse de clèves et modifier les mots a changer dans le dict.
 
+Java Script au même niveau -> doit être uploaded par autre membre d'equipe
 
 ## DOCUMENTATION
