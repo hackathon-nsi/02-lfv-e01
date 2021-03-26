@@ -1,6 +1,9 @@
 # initializing string
 str_in = "hello world hello raphael world Gabriel hello world hello"
 
+# printing original string 
+print("The original string is : " + str(str_in)) 
+
 # lookup Dictionary 
 repl_dict = {"hello" : "\U0001F44B", "world": "\U0001F30E" , "raphael":"\U0001F6B6" , "Gabriel":"\U0001F9CD"}
   
