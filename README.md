@@ -1,6 +1,6 @@
 ~ La 👸 de Clèves ~
 
-**SUJET** : https://github.com/hackathon-nsi/h7n-nsi-01
+**SUJET** : https://github.com/hackathon-nsi/h7n-nsi-02
 
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
 niveau 1 : |###############-----|<br />
