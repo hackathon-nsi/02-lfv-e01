@@ -1,16 +1,15 @@
-# initializing string
-str_in = "hello world hello raphael world Gabriel hello world hello"
-
-# printing original string 
-print("The original string is : " + str(str_in)) 
+#read file
+import requests
+reponse = requests.get('https://raw.githubusercontent.com/hackathon-nsi/h7n-nsi-02/main/textes/La%20Princesse%20de%20Cl%C3%A8ves/lpdc-partie1.txt')
+texte = reponse.text
 
 # lookup Dictionary 
-repl_dict = {"hello" : "\U0001F44B", "world": "\U0001F30E" , "raphael":"\U0001F6B6" , "Gabriel":"\U0001F9CD"}
+repl_dict = {"princesse" : "\U0001F478", "PRINCESSE" : "\U0001F478", "prince": "\U0001F934" , "France":"\U0001F950"}
   
-# one-liner to solve problem 
-fin_str = " ".join(repl_dict.get(e, e) for e in str_in.split())
+# one-liner to replace words 
+fin_texte = " ".join(repl_dict.get(e, e) for e in texte.split())
 
 # printing end result  
-print("Final String : "+ str(fin_str))
+print(fin_texte)
 
 
