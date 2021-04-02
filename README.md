@@ -3,7 +3,7 @@
 **SUJET** : https://github.com/hackathon-nsi/h7n-nsi-02
 
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
-niveau 1 : |################----|<br />
+niveau 1 : |####################|<br />
 niveau 2 : |###############-----|<br />
 niveau 3 : |--------------------|<br />
 niveau 4 : |--------------------|<br />
@@ -21,5 +21,6 @@ Java Script au même niveau -> doit être uploaded par autre membre d'equipe
 JS sur Github
 
 02.04.21:
-Travail par @nsi-lfv-plg sur l'utilisation du document princesse de clève pour modifier le texte
+1.0 Travail par @nsi-lfv-plg sur l'utilisation du document princesse de clève pour modifier le texte pendant la derniere semaine
+2.0 Python TERMINER
 ## DOCUMENTATION
