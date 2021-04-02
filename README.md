@@ -22,5 +22,9 @@ JS sur Github
 
 02.04.21:
 1.0 Travail par @nsi-lfv-plg sur l'utilisation du document princesse de clève pour modifier le texte pendant la derniere semaine
-2.0 Python TERMINER
+2.0 Python TERMINER -> bug restant : parfois (dépend du système) les emojis sont imprimés deu fois de suite
+
 ## DOCUMENTATION
+Python :
+1. Avec un string d'exemple, essayer de changer des mots en emoji : pour ceci un dictionnaire est le plus simple car on peut attribuer une "valeur" à une "key". Ceci nous permet de construire des "key-value pairs" , par exemple {"princesse":"#unicode de l'emoji"}. Puis nous devons parcourir le fichier et regarder pour chaque mot s'il est présent dans le dictionnaire. Enfin, si ce test est positive, nous pouvons changer le mot par son emoji conrespondant.
+2. Avec ce programme de test, nous pouvons maintenant finaliser cette partie du projet en intégrant le fichier de choix (1ere partie de la princesse de clèves). 
