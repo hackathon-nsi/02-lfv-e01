@@ -3,10 +3,10 @@
 **SUJET** : https://github.com/hackathon-nsi/h7n-nsi-02
 
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
-niveau 1 : |####################|<br />
+niveau 1 : |##################--|<br />
 niveau 2 : |####################|<br />
-niveau 3 : |--------------------|<br />
-niveau 4 : |--------------------|<br />
+niveau 3 : |####################|<br />
+niveau 4 : |####################|<br />
 
 <hr />
 <!-- ne pas effacer les lignes ci-dessus et mettre à jour la progression régulièrement -->
@@ -23,6 +23,14 @@ JS sur Github
 02.04.21:
 1.0 Travail par @nsi-lfv-plg sur l'utilisation du document princesse de clève pour modifier le texte pendant la derniere semaine
 2.0 Python TERMINER -> bug restant : parfois (dépend du système) les emojis sont imprimés deu fois de suite
+
+16.04.21:
+Travail sur Java Script terminer
+Changement pour le python: texte maintenant dans le GitHub repository -> doit encore être finalisé
+
+18.04.21:
+Extension chrome terminée et sur GitHub : plus de detail a exlpiquer par @nsi-lfv-ugr et @nsi-lfv-czd
+Niveau 3 également terminé
 
 ## DOCUMENTATION
 Python :
