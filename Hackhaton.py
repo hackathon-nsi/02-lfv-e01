@@ -18,4 +18,5 @@ fout.write(fout_texte)
 fin.close()
 fout.close()
 
+print("Fait")
 
