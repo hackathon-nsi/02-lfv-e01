@@ -35,8 +35,12 @@ Niveau 3 également terminé
 22.04.21:
 Python entièrement terminé
 
+Projet terminé
+
+Cette section a été rédigé par nsi-lfv-plg
+
 ## DOCUMENTATION
-Python :
+Etape 1: Python :
   Fichiers concernés: Hackhaton.py et princesse.txt
   Pour utiliser le programme python:
   1. Télécharger le .zip
@@ -48,3 +52,7 @@ Python :
   7. Le fichier "output.txt" contient le texte avec les emojis et se trouve au niveau ou la console python a travaillé, donc si toutes les étapes ont été bien suivi, le fichier    "output.txt" se trouve dans le même dossier que les deux fichiers de "input" (hackhaton.py et princesse.txt)
   
   Le programme python a été entièrement créer par Gabriel Platzer (GitHub: nsi-lfv-plg)
+  
+Etape 2: Java Script:... -> à faire par nsi-lfv-ugr
+Etape 3: ... -> à faire par nsi-lfv-ugr
+Etape 4: Extension Chrome:... -> à faire par nsi-lfv-czd
