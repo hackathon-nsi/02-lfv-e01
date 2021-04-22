@@ -3,7 +3,7 @@
 **SUJET** : https://github.com/hackathon-nsi/h7n-nsi-02
 
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
-niveau 1 : |##################--|<br />
+niveau 1 : |####################|<br />
 niveau 2 : |####################|<br />
 niveau 3 : |####################|<br />
 niveau 4 : |####################|<br />
@@ -32,8 +32,19 @@ Changement pour le python: texte maintenant dans le GitHub repository -> doit en
 Extension chrome terminée et sur GitHub : plus de detail a exlpiquer par @nsi-lfv-ugr et @nsi-lfv-czd
 Niveau 3 également terminé
 
+22.04.21:
+Python entièrement terminé
+
 ## DOCUMENTATION
 Python :
-1. Avec un string d'exemple, essayer de changer des mots en emoji : pour ceci un dictionnaire est le plus simple car on peut attribuer une "valeur" à une "key". Ceci nous permet de construire des "key-value pairs" , par exemple {"princesse":"#unicode de l'emoji"}. Puis nous devons parcourir le fichier et regarder pour chaque mot s'il est présent dans le dictionnaire. Enfin, si ce test est positive, nous pouvons changer le mot par son emoji conrespondant.
-2. Avec ce programme de test, nous pouvons maintenant finaliser cette partie du projet en intégrant le fichier de choix (1ere partie de la princesse de clèves).
-Ainsi, cette étape du projet est terminé 
+  Fichiers concernés: Hackhaton.py et princesse.txt
+  Pour utiliser le programme python:
+  1. Télécharger le .zip
+  2. Extraire les fichiers
+  3. Ouvrir le fichier python dans un editeur (avec une console) préférablement.
+  4. Bien vérifier que la console soit à la même adresse (et au même dossier) que le fichier Hackhaton.py et princesse.txt sont.
+  5. Lancer le programme
+  6. Si la console retourne "Fait", le programme est terminé
+  7. Le fichier "output.txt" contient le texte avec les emojis et se trouve au niveau ou la console python a travaillé, donc si toutes les étapes ont été bien suivi, le fichier    "output.txt" se trouve dans le même dossier que les deux fichiers de "input" (hackhaton.py et princesse.txt)
+  
+  Le programme python a été entièrement créer par Gabriel Platzer (GitHub: nsi-lfv-plg)
