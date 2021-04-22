@@ -1,19 +1,23 @@
 #-*- coding: utf-8 -*-
 
-#read file
-with open("princesse.txt") as f:
-    texte = f.read()
-    print(texte)
+# read file
+with open("princesse.txt") as fin:
+    texte = fin.read()
+
+# create output file
+fout = open("output.txt","w+")
 
 # lookup Dictionary 
 repl_dict = {"princesse" : "\U0001F478", "PRINCESSE" : "\U0001F478", "prince": "\U0001F934" , "France":"\U0001F950"}
 
 # one-liner to replace words 
-fin_texte = " ".join(repl_dict.get(e, e) for e in texte.split())
-
-f.close()
+fout_texte = " ".join(repl_dict.get(e, e) for e in texte.split())
 
 # printing end result  
-print(fin_texte)
+fout.write(fout_texte)
+
+# close files
+fin.close()
+fout.close()
 
 
