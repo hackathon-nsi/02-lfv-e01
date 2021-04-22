@@ -17,7 +17,7 @@ Test programme python terminé -> à faire :
 Ouvrir fichier texte de la princesse de clèves et modifier les mots a changer dans le dict.
 Java Script au même niveau -> doit être uploaded par autre membre d'equipe
 
-10h30:
+10h30: 
 JS sur Github
 
 02.04.21:
