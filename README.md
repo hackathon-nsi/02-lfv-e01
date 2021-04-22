@@ -53,6 +53,6 @@ Etape 1: Python :
   
   Le programme python a été entièrement créer par Gabriel Platzer (GitHub: nsi-lfv-plg)
   
-Etape 2: Java Script:... -> à faire par nsi-lfv-ugr
-Etape 3: ... -> à faire par nsi-lfv-ugr
-Etape 4: Extension Chrome:... -> à faire par nsi-lfv-czd
+Etape 2: Java Script:... -> à faire par nsi-lfv-ugr <br/>
+Etape 3: ... -> à faire par nsi-lfv-ugr <br/>
+Etape 4: Extension Chrome:... -> à faire par nsi-lfv-czd <br/>
