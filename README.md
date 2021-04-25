@@ -53,6 +53,18 @@ Etape 1: Python :
   
   Le programme python a été entièrement créer par Gabriel Platzer (GitHub: nsi-lfv-plg)
   
-Etape 2: Java Script:... -> à faire par nsi-lfv-ugr <br/>
-Etape 3: ... -> à faire par nsi-lfv-ugr <br/>
+Etape 2: Java Script:
+  1. Ouvrire le fichier emojis.html
+  2. Cliquer sur le boutton get emojis pour changer les mots princesse et prince dans leur emoji correspondant
+  3. Cliquer sur le boutton reset pour refaire apparaitre  le texte d'origine
+<br/>
+Etape 3: Wiki source:
+  1. Ouvrire n'importe qu'elle page web.
+  2. Copier le code du fichier wikisource2
+  3. Appuyerr sur la touche f12
+  4. Cliquer sur la section console
+  5. Coller le code
+  6. Appuyer sur entre
+  7. Les mots princesse et prince vont etre remplacer par des emojis sur la page web
+<br/>
 Etape 4: Extension Chrome:... -> à faire par nsi-lfv-czd <br/>
