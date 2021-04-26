@@ -58,20 +58,20 @@ Etape 2: Java Script:
   2. Cliquer sur le boutton get emojis pour changer les mots princesse et prince dans leur emoji correspondant
   3. Cliquer sur le boutton reset pour refaire apparaitre  le texte d'origine
 <br/>
-Etape 3: Wiki source:
-  1. Ouvrire n'importe qu'elle page web.
-  2. Copier le code du fichier wikisource2
-  3. Appuyerr sur la touche f12
-  4. Cliquer sur la section console
-  5. Coller le code
-  6. Appuyer sur entre
-  7. Les mots princesse et prince vont etre remplacer par des emojis sur la page web
+Etape 3: Wiki source:<br/>
+  1. Ouvrire n'importe qu'elle page web.<br/>
+  2. Copier le code du fichier wikisource2<br/>
+  3. Appuyerr sur la touche f12<br/>
+  4. Cliquer sur la section console<br/>
+  5. Coller le code<br/>
+  6. Appuyer sur entre<br/>
+  7. Les mots princesse et prince vont etre remplacer par des emojis sur la page web<br/>
 <br/>
-Etape 4: Extension Chrome :
-  1.Extraire le fichier : "ChromeExtension2"
-  2.Ouvrir Chrome
-  3.Aller sur le lien : "chrome://extensions/"
-  4.Cliquer sur :"Charger l'extension non empaqueté" et selectionner le fichier "ChromeExtension2"
-  5.Désormais, une petite icône devrait apparaitre en haut à droite
-  6.Pour utliser l'extension visiter une page web et puis cliquer sur l'icône
+Etape 4: Extension Chrome :<br/>
+  1.Extraire le fichier : "ChromeExtension2"<br/>
+  2.Ouvrir Chrome<br/>
+  3.Aller sur le lien : "chrome://extensions/"<br/>
+  4.Cliquer sur :"Charger l'extension non empaqueté" et selectionner le fichier "ChromeExtension2"<br/>
+  5.Désormais, une petite icône devrait apparaitre en haut à droite<br/>
+  6.Pour utliser l'extension visiter une page web et puis cliquer sur l'icône<br/>
 <br/>
