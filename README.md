@@ -72,7 +72,8 @@ Etape 4: Extension Chrome : <br/>
   1.Extraire le fichier : "ChromeExtension2"<br/>
   2.Ouvrir Chrome<br/>
   3.Aller sur le lien : "chrome://extensions/"<br/>
-  4.Cliquer sur :"Charger l'extension non empaqueté" et selectionner le fichier "ChromeExtension2"<br/>
-  5.Désormais, une petite icône devrait apparaitre en haut à droite<br/>
-  6.Pour utliser l'extension visiter une page web et puis cliquer sur l'icône<br/>
+  4.Mettre en "Mode développeur"
+  5.Cliquer sur :"Charger l'extension non empaqueté" et selectionner le fichier "ChromeExtension2"<br/>
+  6.Désormais, une petite icône devrait apparaitre en haut à droite<br/>
+  7.Pour utliser l'extension visiter une page web et puis cliquer sur l'icône<br/>
 <br/>
