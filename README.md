@@ -67,7 +67,8 @@ Etape 3: Wiki source:<br/>
   6. Appuyer sur entre<br/>
   7. Les mots princesse et prince vont etre remplacer par des emojis sur la page web<br/>
 
-Etape 4: Extension Chrome :<br/>
+Etape 4: Extension Chrome : <br/>
+<br/>
   1.Extraire le fichier : "ChromeExtension2"<br/>
   2.Ouvrir Chrome<br/>
   3.Aller sur le lien : "chrome://extensions/"<br/>
