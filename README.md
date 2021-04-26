@@ -57,7 +57,7 @@ Etape 2: Java Script:
   1. Ouvrire le fichier emojis.html
   2. Cliquer sur le boutton get emojis pour changer les mots princesse et prince dans leur emoji correspondant
   3. Cliquer sur le boutton reset pour refaire apparaitre  le texte d'origine
-<br/>
+
 Etape 3: Wiki source:<br/>
   1. Ouvrire n'importe qu'elle page web.<br/>
   2. Copier le code du fichier wikisource2<br/>
